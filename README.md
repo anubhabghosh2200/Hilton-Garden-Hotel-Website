@@ -1,1 +1,1 @@
-# Hotel_Management_Website-
+This is a full stack hotel management website.
